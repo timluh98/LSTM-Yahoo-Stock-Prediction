@@ -1,7 +1,11 @@
 # LSTM Model for Yahoo Stock Price Prediction
 
 This project was developed as part of the "Introduction to Data Analytics" course in the 4th semester at HWR Berlin (Hochschule für Wirtschaft und Recht Berlin).
-Group members: Johann Estrada Pox, Tim Hendrik Luhmann
+
+
+## Group members
+
+Johann Estrada Pox, Tim Hendrik Luhmann
 
 ## Project Overview
 
