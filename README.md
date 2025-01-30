@@ -1,6 +1,7 @@
 # LSTM Model for Yahoo Stock Price Prediction
 
 This project was developed as part of the "Introduction to Data Analytics" course in the 4th semester at HWR Berlin (Hochschule für Wirtschaft und Recht Berlin).
+Group members: Johann Estrada Pox, Tim Hendrik Luhmann
 
 ## Project Overview
 
@@ -15,6 +16,7 @@ We implemented a Long Short-Term Memory (LSTM) neural network to predict stock p
 ## Technologies Used
 
 - Python
+- scikit-learn
 - TensorFlow/Keras for LSTM implementation
 - Matplotlib for plotting
 - Pandas for data manipulation
